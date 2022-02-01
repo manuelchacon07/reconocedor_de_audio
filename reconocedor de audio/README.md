@@ -2,4 +2,6 @@
 
 #### Prueba de funcionamiento
 
-[Reconocedor de sonidos](https://youtu.be/lj8M3-fe7Ws)
+[Prueba de funcionamiento](https://youtu.be/lj8M3-fe7Ws)
+
+[Reconocedor de sonidos](https://reconocedor-de-sonidos.glitch.me/)
